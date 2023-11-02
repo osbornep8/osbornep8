@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-* Welcome to my GitHub I am a neuroscientist who loves to learn and play with various machine learning and deep learning tools!
-* 🌱 I’m currently learning PyTorch
-* 💬 Ask me about: All things neuroscience, I'm more than happy to offer my help :grin:
-* 👯 I’m looking to collaborate on projects regarding BCIs and neurofeedback applications :brain: 
+* Welcome to my GitHub I am a computational neuroscientist who loves to learn and play with various machine learning and deep learning tools!
+* ⚙️ I am well adept in Research Methodologies to inspect and derive useful information from both qualitative and quantitative data.
+* 🌱 I consider myself to be a lifelong learner 
+* 💬 Ask me about: All things neuroscience and data science, I'm more than happy to offer my help :grin:
+* 👯 I’m always looking to collaborate on projects regarding BCIs and neurofeedback applications :brain: 
 * 📫 How to reach me: pereiraosborne8@gmail.com
 
 <!--
