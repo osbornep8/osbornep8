@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* Welcome to my GitHub! I am a Computational Neuroscientist and Front-end Developer who also loves to learn and play with various machine learning and deep learning tools!
+* Welcome to my GitHub! I am a Computational Neuroscientist and Web Developer who also loves to learn and play with various machine learning and deep learning tools!
 * ⚙️ I am well adept in Research Methodologies to inspect and derive useful information from both qualitative and quantitative data.
 * 🌱 I consider myself to be a lifelong learner obsessed with experimentation and data-drive approaches!
 * 💬 Ask me about: All things neuroscience and data science, I'm more than happy to offer my help :grin:
