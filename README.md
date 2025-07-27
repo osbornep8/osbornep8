@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-* Welcome to my GitHub! I am a Computational Neuroscientist and Web Developer who also loves to learn and play with various machine learning and deep learning tools!
+* Welcome to my GitHub! I am a Computational Neuroscientist and Software Developer who also loves to learn and play with various machine learning and deep learning tools!
 * ⚙️ I am well adept in Research Methodologies to inspect and derive useful information from both qualitative and quantitative data.
-* 🌱 I consider myself to be a lifelong learner obsessed with experimentation and data-drive approaches!
-* 💬 Ask me about: All things neuroscience and data science, I'm more than happy to offer my help :grin:
-* 👯 I’m always looking to collaborate on projects regarding BCIs and neurofeedback applications :brain:
-* I offer data scientific and analytical services :memo: concering healthcare :medical_symbol:, business 👩‍💼 and/or financial :pound: related needs.
+* 🌱 I consider myself to be a lifelong learner obsessed with **data-driven** and **data-intensive** approaches!
+* 💬 Ask me about: All things neuroscience and biomedical, and AI I'm more than happy to offer my help :grin:
+* 👯 I’m always looking to collaborate on projects within healthcare AI and other intriguing app ideas (just hmu!).
+* I offer a range of data scientific services :memo: concering healthcare :medical_symbol:, business 👩‍💼 and/or financial :pound: related needs.
 * 📫 How to reach me: pereiraosborne8@gmail.com
 
 <!--
