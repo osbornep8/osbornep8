@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-* Welcome to my GitHub! I am a Computational Neuroscientist and Software Engineer who also loves to learn and play with various machine learning and deep learning tools!
-* ⚙️ I am well adept in Research Methodologies to inspect and derive useful information from both qualitative and quantitative data.
-* 🌱 I consider myself to be a lifelong learner obsessed with **data-driven** and **data-intensive** approaches!
+* Welcome to my GitHub! I am a Computational Neuroscientist and Software Engineer.
+* ⚙️ I am well adept in ML/DL approaches to derive useful information from both qualitative and quantitative data.
+* 🌱 I consider myself to be a lifelong learner obsessed with **data-driven** and **data-intensive** approaches! Particularly building data pipelines to connect disparate sources to enhance analytics and MLOps.
 * 💬 Ask me about: All things neuroscience and biomedical, and AI I'm more than happy to offer my help :grin:
 * 👯 I’m always looking to collaborate on projects within healthcare AI and other intriguing app ideas (just hmu!).
 * I offer a range of data scientific services :memo: concering healthcare :medical_symbol:, business 👩‍💼 and/or financial :pound: related needs.
