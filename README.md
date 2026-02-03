@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * Welcome to my GitHub! I am a Computational Neuroscientist and Software Engineer.
-* 💬 Ask me about: All things neuroscience and biomedical, and AI I'm more than happy to offer my help :grin:
+* 💬 Ask me about: All things neuroscience, biotech, and AI I'm more than happy to offer my help :grin:
 * 👯 I’m always looking to collaborate on projects within healthcare AI and other intriguing app ideas (just hmu!).
 * I offer a range of data scientific services :memo: concering healthcare :medical_symbol:, and business 👩‍💼 related needs.
 * 📫 How to reach me: pereiraosborne8@gmail.com
